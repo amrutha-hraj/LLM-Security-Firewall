@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+pymongo
+scikit-learn
+pandas
+numpy
+transformers
+sentence-transformers
+faiss-cpu
+python-jose
+passlib
+websockets
+loguru
